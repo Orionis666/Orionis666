@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Orionis666
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python Projects
+- 👀 I’m interested in Frontend development
+- I’m interested in Backend development
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on Javascript Projects
 - 📫 How to reach me topedaves@gmail.com
 
 <!---
